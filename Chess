@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chess Board</title>
+    <style>
+        table {
+            color: bisque;
+            background-color: brown;
+            border: 1px solid rgb(127,84,55);
+            border-collapse: collapse;
+        }
+
+        th, td {
+            width: 50px;
+            height: 50px;
+            text-align: center;
+            border: 1px solid bisque;
+        }
+
+        tr.odd td {
+            background-color: darkbrown;
+        }
+
+        img {
+            width: 50px;
+            height: 50px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Chess</h1>
+    <table>
+        <tr>
+            <th></th>
+            <th>A</th>
+            <th>B</th>
+            <th>C</th>
+            <th>D</th>
+            <th>E</th>
+            <th>F</th>
+            <th>G</th>
+            <th>H</th>
+        </tr>
+
+        <tr class="odd">
+            <td>1</td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/MF48RW.png?v=1535655552" class="piece" data-pos="A1"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-55_c39d1600-cb0f-4c0b-9a8a-68fa6ca2d05d_800x.png?v=1535655237" class="piece" data-pos="B1"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/additional_megachess-46_4ca2b004-59ac-4f9e-a3b1-9f4640abcfe6_800x.png?v=1535642863" class="piece" data-pos="C1"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/additional_megachess-18_d2980cab-b966-4cee-b5e2-6cd3f0827387_800x.png?v=1535653440" class="piece" data-pos="D1"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-52_6b3aa585-ca13-403a-99b5-e848a49922e6_800x.png?v=1535652961" class="piece" data-pos="E1"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/additional_megachess-46_4ca2b004-59ac-4f9e-a3b1-9f4640abcfe6_800x.png?v=1535642863" class="piece" data-pos="F1"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-55_c39d1600-cb0f-4c0b-9a8a-68fa6ca2d05d_800x.png?v=1535655237" class="piece" data-pos="G1"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/MF48RW.png?v=1535655552" class="piece" data-pos="H1"></td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/407/original/3d-rendering-white-pawn-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="A2"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/407/original/3d-rendering-white-pawn-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="B2"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/407/original/3d-rendering-white-pawn-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="C2"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/407/original/3d-rendering-white-pawn-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="D2"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/407/original/3d-rendering-white-pawn-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="E2"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/407/original/3d-rendering-white-pawn-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="F2"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/407/original/3d-rendering-white-pawn-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="G2"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/407/original/3d-rendering-white-pawn-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="H2"></td>
+        </tr>
+
+        <tr class="odd">
+            <td>3</td>
+            <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+        </tr>
+
+        <tr class="odd">
+            <td>5</td>
+            <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+        </tr>
+
+        <tr>
+            <td>6</td>
+            <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+        </tr>
+
+        <tr class="odd">
+            <td>7</td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-46_ac7627d4-49f4-4c73-aba9-31939a1d0187_800x.png?v=1535655794" class="piece" data-pos="A7"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-46_ac7627d4-49f4-4c73-aba9-31939a1d0187_800x.png?v=1535655794" class="piece" data-pos="B7"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-46_ac7627d4-49f4-4c73-aba9-31939a1d0187_800x.png?v=1535655794" class="piece" data-pos="C7"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-46_ac7627d4-49f4-4c73-aba9-31939a1d0187_800x.png?v=1535655794" class="piece" data-pos="D7"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-46_ac7627d4-49f4-4c73-aba9-31939a1d0187_800x.png?v=1535655794" class="piece" data-pos="E7"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-46_ac7627d4-49f4-4c73-aba9-31939a1d0187_800x.png?v=1535655794" class="piece" data-pos="F7"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-46_ac7627d4-49f4-4c73-aba9-31939a1d0187_800x.png?v=1535655794" class="piece" data-pos="G7"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-46_ac7627d4-49f4-4c73-aba9-31939a1d0187_800x.png?v=1535655794" class="piece" data-pos="H7"></td>
+        </tr>
+
+        <tr>
+            <td>8</td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/additional_megachess-33_95096217-061a-484c-a4a4-a4c914bc84d8_800x.png?v=1535646648" class="piece" data-pos="A8"></td>
+            <td><img src="https://www.giantoutdoorchess.com/cdn/shop/products/additional_megachess-11_800x.png?v=1535652636" class="piece" data-pos="B8"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/413/original/3d-rendering-black-bishop-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="C8"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/2017_Mega_Chess_Need_to_Clip-37_3f51096a-44bb-429e-b9d8-17f8f45f6005_800x.png?v=1535648764" class="piece" data-pos="D8"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/additional_megachess-8_51ceac04-393d-4374-aaff-ee3a895ab44f_800x.png?v=1535650833" class="piece" data-pos="E8"></td>
+            <td><img src="https://static.vecteezy.com/system/resources/previews/020/004/413/original/3d-rendering-black-bishop-isolated-on-transparent-background-object-clipping-path-on-file-png.png" class="piece" data-pos="F8"></td>
+            <td><img src="https://www.giantoutdoorchess.com/cdn/shop/products/additional_megachess-11_800x.png?v=1535652636" class="piece" data-pos="G8"></td>
+            <td><img src="https://www.megachess.com/cdn/shop/products/additional_megachess-33_95096217-061a-484c-a4a4-a4c914bc84d8_800x.png?v=1535646648" class="piece" data-pos="H8"></td>
+        </tr>
+    </table>
+</body>
+</html>
