@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>about.me</title>
+</head>
+<body>
+     <h1> Alejandro Vasquez</h1>
+      <p> I am a multimedia artist that focuses on the intersection of </p>
+      <p> the precision of technology and the inaccuracy of humans.</p>
+
+<h4>all of my classes are on the same day </h4>
+   <ol>
+     <li>Ballet</li>
+        <p>8:10-9:25</p>
+     <li> Video Art</li>
+        <p>9:45-12:15</p>
+    <li>Sculpture</li>
+        <p> 12:55-3:25</p>
+    <li>Discrete Structure</li>
+        <p>4:05-5:20</p>
+    <li> Web Programming</li>
+        <p>5:30-8:00</p>
+</ol>
+<h1 style="color: silver">Movies are one of my favorite things!</h1>
+     <p style="color: orange "> My favorite movies: </p>
+    <ul>
+             <li style="color: yellow"> Cabin in the woods </li>
+     <li style="color: green"> Dinner in america </li>
+     <li style="color: blue"> Wayne's World </li>
+     <li style="color: purple"> An american werewolf in london </li>
+
+    </ul>
+
+<p> if you want to see more movies i love <a href="https://letterboxd.com/avasquez/">This is a link click here</a></p>
+<p><strong>This semester i've been learning the magic of tofu!</strong></p>
+     <img src="https://www.seriouseats.com/thmb/ZXRURtUznlknm5_8IoGoWdYHyUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210520_TofuGuide_LizClayman_54-tofuparty-seriouseats-46c5023bb30f4373a90fce1b1e2ea0f7.jpg" width="300px" alt="Tofu"/>
+<p><strong>I have tons of dirty dishes everyday because of it</strong></p>
+ <img src="https://www.southernliving.com/thmb/-qpm8BiI9yDO37Hwp5LNDuRE8J8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-488222865-2000-f8d99a4af7eb44549f30378c9a3333ce.jpg" width="300px" alt="Dirty Dishes"/>
+<h3 style="background-color:yellow;">I dont like the background colors.</h3>
+
+
+
+
+
+
+</body>
+</html>
+
