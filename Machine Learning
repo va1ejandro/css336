@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine Learning Algorithms</title>
+</head>
+<body>
+    <h1>Machine Learning Algorithms</h1>
+
+    <h2>Supervised Learning</h2>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/Linear_regression">Linear Regression</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic Regression</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Support_vector_machine">Support Vector Machine (SVM)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Decision_tree_learning">Decision Trees</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Random_forest">Random Forest</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Naive_Bayes_classifier">Naive Bayes</a></li>
+    </ol>
+
+    <h2>Unsupervised Learning</h2>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/K-means_clustering">K-means Clustering</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Hierarchical_clustering">Hierarchical Clustering</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Component Analysis (PCA)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm">Expectation Maximization</a></li>
+    </ol>
+
+    <h2>Semi-supervised Learning</h2>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/Self-training_(machine_learning)">Self-training</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Cotraining">Co-training</a></li>
+    </ol>
+
+    <h2>Reinforcement Learning</h2>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/Q-learning">Q-learning</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Deep_Q_network">Deep Q-Networks</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Temporal_difference_learning">Temporal Difference Learning</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Policy_gradient_methods">Policy Gradient Methods</a></li>
+    </ol>
+
+    <h2>Neural Networks and Deep Learning</h2>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Artificial Neural Networks (ANN)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Convolutional_neural_network">Convolutional Neural Networks (CNN)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Recurrent_neural_network">Recurrent Neural Networks (RNN)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Generative_adversarial_network">Generative Adversarial Networks (GAN)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Autoencoder">Autoencoders</a></li>
+    </ol>
+
+    <h2>Dimensionality Reduction</h2>
+    <ol>
+        <li><a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Component Analysis (PCA)</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding">t-SNE</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Linear_discriminant_analysis">Linear Discriminant Analysis (LDA)</a></li>
+    </ol>
+
+</body>
+</html>
